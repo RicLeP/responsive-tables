@@ -1,6 +1,3 @@
-th {
-	font-weight: bold;
-}
 
 .responsive-table {
 	&--mobile {
@@ -56,6 +53,7 @@ th {
 
 		color: #fff;
 		font-size: 12pt;
+		font-weight: bold;
 
 		&:first-child {
 			padding-left: 20px;
